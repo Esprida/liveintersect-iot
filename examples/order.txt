@@ -1,4 +1,0 @@
-#Namespace
-    #Awesome Examples
-        Example_1
-
